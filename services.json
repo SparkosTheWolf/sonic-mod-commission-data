@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "id": "texture",
+      "name": "Texture / Recolor",
+      "category": "base",
+      "description": "Работаю с текстурами и recolor на предоставленных моделях."
+    },
+    {
+      "id": "client_model",
+      "name": "Client-provided model",
+      "category": "base",
+      "description": "Заказчик предоставляет готовую модель, я адаптирую и настраиваю."
+    },
+    {
+      "id": "custom_model",
+      "name": "Custom model",
+      "category": "base",
+      "description": "Создаю собственную модель с нуля или на основе референсов."
+    },
+    {
+      "id": "adaptation",
+      "name": "Model adaptation",
+      "category": "base",
+      "description": "Существующая модель требует серьёзной адаптации и подгонки."
+    },
+    {
+      "id": "installer",
+      "name": "Mod Installer",
+      "category": "extra",
+      "description": "Создание удобного установщика для готового мода."
+    },
+    {
+      "id": "extra_form",
+      "name": "Additional Character Form",
+      "category": "extra",
+      "description": "Дополнительная форма персонажа для расширенного набора."
+    },
+    {
+      "id": "extra_variant",
+      "name": "Additional Model Variant",
+      "category": "extra",
+      "description": "Дополнительная модель / вариант для одного заказа."
+    },
+    {
+      "id": "extra_texture",
+      "name": "Additional Texture Set",
+      "category": "extra",
+      "description": "Дополнительный набор текстур для одного заказа."
+    },
+    {
+      "id": "rush",
+      "name": "Rush Order",
+      "category": "extra",
+      "description": "Срочное выполнение заказа с ускоренной очередью."
+    },
+    {
+      "id": "custom",
+      "name": "Custom / Other",
+      "category": "extra",
+      "description": "Индивидуальная доп. услуга, которая не попадает в стандартный список."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "games": [
+    {
+      "id": "sonic_adventure_dx",
+      "name": "Sonic Adventure DX",
+      "active": true,
+      "difficulty": "low-medium",
+      "description": "Работаю с Sonic в Sonic Adventure DX. Поддержка модификации текстур, моделей и переработки цвета.",
+      "notes": [
+        "Texture replacement",
+        "Recolor",
+        "Model replacement",
+        "Model adaptation",
+        "Facial animation не предлагается"
+      ],
+      "services": ["texture", "recolor", "custom_model", "adaptation"]
+    },
+    {
+      "id": "sonic_r",
+      "name": "Sonic R",
+      "active": true,
+      "difficulty": "medium-high",
+      "description": "Работаю с любыми персонажами в Sonic R. Высокая свобода моделей при строгих технических ограничениях.",
+      "notes": [
+        "Custom models",
+        "Custom textures",
+        "Recolors",
+        "Character replacement",
+        "Optimization required"
+      ],
+      "services": ["custom_model", "texture", "recolor", "adaptation"]
+    },
+    {
+      "id": "sonic_generations",
+      "name": "Sonic Generations",
+      "active": true,
+      "difficulty": "medium",
+      "description": "Работаю с Modern Sonic и Classic Sonic. Замена моделей, текстур и адаптация.",
+      "notes": [
+        "Model replacement",
+        "Texture replacement",
+        "Recolors",
+        "Adaptation"
+      ],
+      "services": ["texture", "recolor", "custom_model", "adaptation"]
+    },
+    {
+      "id": "sonic_forces",
+      "name": "Sonic Forces",
+      "active": true,
+      "difficulty": "medium",
+      "description": "Работаю с Modern Sonic и Avatar. Для Avatar сложность выше и требуется внимательная адаптация.",
+      "notes": [
+        "Model replacement",
+        "Textures",
+        "Recolors",
+        "Adaptation"
+      ],
+      "services": ["texture", "recolor", "custom_model", "adaptation"]
+    },
+    {
+      "id": "sonic_frontiers",
+      "name": "Sonic Frontiers",
+      "active": true,
+      "difficulty": "medium-high",
+      "description": "Работаю с Sonic: custom model, адаптация, текстуры и recolor для Frontier-модов.",
+      "notes": [
+        "Custom model",
+        "Client-provided model",
+        "Model adaptation",
+        "Textures",
+        "Recolor",
+        "Character replacement"
+      ],
+      "services": ["custom_model", "client_model", "texture", "recolor", "adaptation"]
+    },
+    {
+      "id": "sonic_battle",
+      "name": "Sonic Battle",
+      "active": true,
+      "difficulty": "medium",
+      "description": "Работаю с Sonic Battle: recolor, texture/sprite adaptation и существующие sprite файлы.",
+      "notes": [
+        "Recolor",
+        "Texture / sprite adaptation",
+        "Работа с существующими sprites",
+        "Ограничение палитры"
+      ],
+      "services": ["texture", "recolor", "adaptation"]
+    },
+    {
+      "id": "sonic_unleashed_recompiled",
+      "name": "Sonic Unleashed Recompiled",
+      "active": true,
+      "difficulty": "medium-high",
+      "description": "Работаю с Sonic Unleashed Recompiled: замена моделей, текcтур, recolor и адаптация.",
+      "notes": [
+        "Model replacement",
+        "Textures",
+        "Recolors",
+        "Adaptation"
+      ],
+      "services": ["texture", "recolor", "custom_model", "adaptation"]
+    }
+  ]
+}

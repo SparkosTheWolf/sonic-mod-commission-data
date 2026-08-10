@@ -1,0 +1,58 @@
+{
+  "sonic_adventure_dx": {
+    "texture": 1200,
+    "recolor": 900,
+    "custom_model": 2600,
+    "adaptation": 2000
+  },
+  "sonic_r": {
+    "texture": 1400,
+    "recolor": 1100,
+    "custom_model": 3400,
+    "adaptation": 2600,
+    "installer": 700
+  },
+  "sonic_generations": {
+    "texture": 1300,
+    "recolor": 1000,
+    "custom_model": 2900,
+    "adaptation": 2200,
+    "installer": 700
+  },
+  "sonic_forces": {
+    "texture": 1350,
+    "recolor": 1050,
+    "custom_model": 3000,
+    "adaptation": 2400,
+    "installer": 700
+  },
+  "sonic_frontiers": {
+    "texture": 1600,
+    "recolor": 1200,
+    "client_model": 2200,
+    "custom_model": 3700,
+    "adaptation": 2800,
+    "installer": 750
+  },
+  "sonic_battle": {
+    "texture": 1100,
+    "recolor": 950,
+    "adaptation": 1900,
+    "installer": 700
+  },
+  "sonic_unleashed_recompiled": {
+    "texture": 1500,
+    "recolor": 1150,
+    "custom_model": 3200,
+    "adaptation": 2700,
+    "installer": 750
+  },
+  "extras": {
+    "installer": 700,
+    "extra_form": 450,
+    "extra_variant": 400,
+    "extra_texture": 350,
+    "rush": 900,
+    "custom": 600
+  }
+}
