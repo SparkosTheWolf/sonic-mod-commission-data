@@ -1,18 +1,3 @@
 {
-  "orders": [
-    {
-      "id": "001",
-      "game": "Sonic Frontiers",
-      "work": "Custom Character",
-      "status": "in_progress",
-      "public": true
-    },
-    {
-      "id": "002",
-      "game": "Sonic Generations",
-      "work": "Texture Replacement",
-      "status": "waiting",
-      "public": true
-    }
-  ]
+  "orders": []
 }

@@ -3,17 +3,15 @@
     {
       "id": "sonic_adventure_dx",
       "name": "Sonic Adventure DX",
-      "active": true,
+      "active": false,
       "difficulty": "low-medium",
       "description": "Работаю с Sonic в Sonic Adventure DX. Поддержка модификации текстур, моделей и переработки цвета.",
-      "notes": [
-        "Texture replacement",
-        "Recolor",
-        "Model replacement",
-        "Model adaptation",
-        "Facial animation не предлагается"
-      ],
-      "services": ["texture", "recolor", "custom_model", "adaptation"]
+      "services": [
+        "texture",
+        "recolor",
+        "custom_model",
+        "adaptation"
+      ]
     },
     {
       "id": "sonic_r",
@@ -28,7 +26,12 @@
         "Character replacement",
         "Optimization required"
       ],
-      "services": ["custom_model", "texture", "recolor", "adaptation"]
+      "services": [
+        "custom_model",
+        "texture",
+        "recolor",
+        "adaptation"
+      ]
     },
     {
       "id": "sonic_generations",
@@ -42,7 +45,12 @@
         "Recolors",
         "Adaptation"
       ],
-      "services": ["texture", "recolor", "custom_model", "adaptation"]
+      "services": [
+        "texture",
+        "recolor",
+        "custom_model",
+        "adaptation"
+      ]
     },
     {
       "id": "sonic_forces",
@@ -56,7 +64,12 @@
         "Recolors",
         "Adaptation"
       ],
-      "services": ["texture", "recolor", "custom_model", "adaptation"]
+      "services": [
+        "texture",
+        "recolor",
+        "custom_model",
+        "adaptation"
+      ]
     },
     {
       "id": "sonic_frontiers",
@@ -72,21 +85,25 @@
         "Recolor",
         "Character replacement"
       ],
-      "services": ["custom_model", "client_model", "texture", "recolor", "adaptation"]
+      "services": [
+        "custom_model",
+        "client_model",
+        "texture",
+        "recolor",
+        "adaptation"
+      ]
     },
     {
       "id": "sonic_battle",
       "name": "Sonic Battle",
-      "active": true,
+      "active": false,
       "difficulty": "medium",
       "description": "Работаю с Sonic Battle: recolor, texture/sprite adaptation и существующие sprite файлы.",
-      "notes": [
-        "Recolor",
-        "Texture / sprite adaptation",
-        "Работа с существующими sprites",
-        "Ограничение палитры"
-      ],
-      "services": ["texture", "recolor", "adaptation"]
+      "services": [
+        "texture",
+        "recolor",
+        "adaptation"
+      ]
     },
     {
       "id": "sonic_unleashed_recompiled",
@@ -94,13 +111,12 @@
       "active": true,
       "difficulty": "medium-high",
       "description": "Работаю с Sonic Unleashed Recompiled: замена моделей, текcтур, recolor и адаптация.",
-      "notes": [
-        "Model replacement",
-        "Textures",
-        "Recolors",
-        "Adaptation"
-      ],
-      "services": ["texture", "recolor", "custom_model", "adaptation"]
+      "services": [
+        "texture",
+        "recolor",
+        "custom_model",
+        "adaptation"
+      ]
     }
   ]
 }
