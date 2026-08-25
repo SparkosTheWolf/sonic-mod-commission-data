@@ -3,7 +3,7 @@
     {
       "id": "sonic_adventure_dx",
       "name": "Sonic Adventure DX",
-      "active": false,
+      "active": true,
       "difficulty": "low-medium",
       "description": "Работаю с Sonic в Sonic Adventure DX. Поддержка модификации текстур, моделей и переработки цвета.",
       "services": [
@@ -96,7 +96,7 @@
     {
       "id": "sonic_battle",
       "name": "Sonic Battle",
-      "active": false,
+      "active": true,
       "difficulty": "medium",
       "description": "Работаю с Sonic Battle: recolor, texture/sprite adaptation и существующие sprite файлы.",
       "services": [
