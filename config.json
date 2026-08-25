@@ -1,5 +1,5 @@
 {
-  "commissionsOpen": false,
+  "commissionsOpen": true,
   "maxSlots": 3,
   "telegramUsername": "sparkosmodcommissions",
   "currency": "RUB"
