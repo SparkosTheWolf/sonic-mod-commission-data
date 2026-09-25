@@ -117,6 +117,19 @@
         "custom_model",
         "adaptation"
       ]
+    },
+    {
+      "id": "sonic_racing_crossworlds",
+      "name": "Sonic Racing Crossworlds",
+      "active": true,
+      "difficulty": "medium-high",
+      "description": "Замена модели на кастомную (заказчика), работа с текстурами.",
+      "services": [
+        "texture",
+        "recolor",
+        "custom_model",
+        "adaptation"
+      ]
     }
   ]
 }

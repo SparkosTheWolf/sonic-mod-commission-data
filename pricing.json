@@ -47,6 +47,13 @@
     "adaptation": 2700,
     "installer": 750
   },
+  "sonic_racing_crossworlds": {
+    "texture": 1800,
+    "recolor": 1350,
+    "custom_model": 3500,
+    "adaptation": 2900,
+    "installer": 750
+  },
   "extras": {
     "installer": 700,
     "extra_form": 450,
