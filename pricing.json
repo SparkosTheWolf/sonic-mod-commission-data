@@ -1,65 +1,66 @@
+
 {
   "sonic_adventure_dx": {
-    "texture": 1200,
-    "recolor": 900,
-    "custom_model": 2600,
-    "adaptation": 2000
+    "texture": 950,
+    "recolor": 700,
+    "custom_model": 2100,
+    "adaptation": 1600
   },
   "sonic_r": {
-    "texture": 1400,
-    "recolor": 1100,
-    "custom_model": 3400,
-    "adaptation": 2600,
-    "installer": 700
+    "texture": 1100,
+    "recolor": 900,
+    "custom_model": 2700,
+    "adaptation": 2100,
+    "installer": 550
   },
   "sonic_generations": {
-    "texture": 1300,
-    "recolor": 1000,
-    "custom_model": 2900,
-    "adaptation": 2200,
-    "installer": 700
+    "texture": 1050,
+    "recolor": 800,
+    "custom_model": 2300,
+    "adaptation": 1750,
+    "installer": 550
   },
   "sonic_forces": {
-    "texture": 1350,
-    "recolor": 1050,
-    "custom_model": 3000,
-    "adaptation": 2400,
-    "installer": 700
+    "texture": 1100,
+    "recolor": 850,
+    "custom_model": 2400,
+    "adaptation": 1900,
+    "installer": 550
   },
   "sonic_frontiers": {
-    "texture": 1600,
-    "recolor": 1200,
-    "client_model": 2200,
-    "custom_model": 3700,
-    "adaptation": 2800,
-    "installer": 750
+    "texture": 1300,
+    "recolor": 950,
+    "client_model": 1750,
+    "custom_model": 2950,
+    "adaptation": 2250,
+    "installer": 600
   },
   "sonic_battle": {
-    "texture": 1100,
-    "recolor": 950,
-    "adaptation": 1900,
-    "installer": 700
+    "texture": 900,
+    "recolor": 750,
+    "adaptation": 1500,
+    "installer": 550
   },
   "sonic_unleashed_recompiled": {
-    "texture": 1500,
-    "recolor": 1150,
-    "custom_model": 3200,
-    "adaptation": 2700,
-    "installer": 750
+    "texture": 1200,
+    "recolor": 900,
+    "custom_model": 2550,
+    "adaptation": 2150,
+    "installer": 600
   },
   "sonic_racing_crossworlds": {
-    "texture": 1800,
-    "recolor": 1350,
-    "custom_model": 3500,
-    "adaptation": 2900,
-    "installer": 750
+    "texture": 1450,
+    "recolor": 1100,
+    "custom_model": 2800,
+    "adaptation": 2300,
+    "installer": 600
   },
   "extras": {
-    "installer": 700,
-    "extra_form": 450,
-    "extra_variant": 400,
-    "extra_texture": 350,
-    "rush": 900,
-    "custom": 600
+    "installer": 550,
+    "extra_form": 350,
+    "extra_variant": 300,
+    "extra_texture": 300,
+    "rush": 700,
+    "custom": 500
   }
 }
