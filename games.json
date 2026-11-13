@@ -135,7 +135,7 @@
       "id": "sonic_pico_park",
       "name": "Sonic Pico Park",
       "active": true,
-      "difficulty": "middle",
+      "difficulty": "medium",
       "description": "Меняю спрайты игры на кастомные (рисую сам либо Ваши готовые)",
       "services": [
         "texture"
