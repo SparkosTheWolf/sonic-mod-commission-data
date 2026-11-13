@@ -37,12 +37,6 @@
       "description": "Дополнительная форма персонажа для расширенного набора."
     },
     {
-      "id": "extra_variant",
-      "name": "Additional Model Variant",
-      "category": "extra",
-      "description": "Дополнительная модель / вариант для одного заказа."
-    },
-    {
       "id": "extra_texture",
       "name": "Additional Texture Set",
       "category": "extra",

@@ -1,4 +1,3 @@
-
 {
   "sonic_adventure_dx": {
     "texture": 950,
@@ -54,6 +53,9 @@
     "custom_model": 2800,
     "adaptation": 2300,
     "installer": 600
+  },
+  "sonic_pico_park": {
+    "texture": 500
   },
   "extras": {
     "installer": 550,

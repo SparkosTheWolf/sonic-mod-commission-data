@@ -130,6 +130,16 @@
         "custom_model",
         "adaptation"
       ]
+    },
+    {
+      "id": "sonic_pico_park",
+      "name": "Sonic Pico Park",
+      "active": true,
+      "difficulty": "easy",
+      "description": "Меняю спрайты игры на кастомные (рисую сам либо Ваши готовые)",
+      "services": [
+        "texture"
+      ]
     }
   ]
 }
