@@ -6,6 +6,13 @@
       "work": "Customer model",
       "status": "completed",
       "public": true
+    },
+    {
+      "id": "002",
+      "game": "Sonic Racing Crossworlds",
+      "work": "Custom model, sounds, texts e.t.c",
+      "status": "waiting",
+      "public": true
     }
   ]
 }
